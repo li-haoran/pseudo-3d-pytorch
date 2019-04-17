@@ -1,0 +1,15 @@
+ucf101_split1_nobn_sc160_16_lr_nseg_1_ncrop_1 : 162.268126 times test result top5: 96.114195, top1: 84.430346 
+ ucf101_split1_nobn_sc160_16_lr_nseg_10_ncrop_10 : 3508.384135 times test result top5: 97.647370, top1: 88.078245 
+ ucf101_split1_nobn_sc160_16_nseg_20_ncrop_1 : 1336.082667 times test result top5: 97.197991, top1: 87.708168 
+ ucf101_split1_nobn_sc160_16_nseg_10_ncrop_10 : 3506.162032 times test result top5: 97.250859, top1: 88.210415 
+ ucf101_split1_nobn_sc182_32_nseg_20_ncrop_1 : 1377.188914 times test result top5: 97.964578, top1: 89.717156 
+ ucf101_split1_nobn_sc182_32_nseg_10_ncrop_10_nepoch_77 : 3517.518051 times test result top5: 98.466825, top1: 89.928628 
+ ucf101_split1_nobn_sc182_32_nseg_16_ncrop_10_nepoch_77 : 9268.306996 times test result top5: 98.466825, top1: 90.245837 
+ ucf101_split1_nobn_sc182_32_nseg_20_ncrop_1_nepoch_77 : 1578.403484 times test result top5: 98.017446, top1: 89.822892  
+ ucf101_split1_nobn_sc182_32_sr2_nseg_20_ncrop_1_nepoch_0 : 1356.666718 times test result top5: 98.281787, top1: 89.637854 
+ hmdb51_split1_nobn_sc182_32_sr2_nseg_20_ncrop_1_nepoch_0 : 696.718157 times test result top5: 84.183007, top1: 54.836601 
+ hmdb51_split1_nobn_sc182_32_sr2_lr_dp_nseg_20_ncrop_1_nepoch_71 : 556.739260 times test result top5: 85.686275, top1: 57.189542 
+ hmdb51_split1_nobn_sc182_32_sr2_lr_dp_nseg_10_ncrop_10_nepoch_71 : 1421.069828 times test result top5: 86.732026, top1: 60.130719 
+ hmdb51_split1_nobn_sc256_32_sr2_lr_dp_nseg_20_ncrop_1_nepoch_0 : 898.919656 times test result top5: 85.424837, top1: 56.078431 
+ hmdb51_split1_nobn_sc256_32_sr2_lr_dp_nseg_4_ncrop_10_nepoch_0 : 1242.864019 times test result top5: 86.601307, top1: 57.189542 
+ 
